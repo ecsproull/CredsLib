@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37502.11 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CredsLib", "CredsLib.csproj", "{313872AA-CE76-4BA9-8D01-96C1FBD40799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCredsLib", "..\TestCredsLib\TestCredsLib.csproj", "{6111E4FD-C14D-4551-B07A-29A4755CD833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{313872AA-CE76-4BA9-8D01-96C1FBD40799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313872AA-CE76-4BA9-8D01-96C1FBD40799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313872AA-CE76-4BA9-8D01-96C1FBD40799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313872AA-CE76-4BA9-8D01-96C1FBD40799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6111E4FD-C14D-4551-B07A-29A4755CD833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6111E4FD-C14D-4551-B07A-29A4755CD833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6111E4FD-C14D-4551-B07A-29A4755CD833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6111E4FD-C14D-4551-B07A-29A4755CD833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC67AF8B-0083-4437-8258-48470714BB6C}
+	EndGlobalSection
+EndGlobal
