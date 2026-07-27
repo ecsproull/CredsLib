@@ -10,7 +10,7 @@
 
     public class CredentialManager
     {
-        public static string GetConnectionString(string requestedPerms, string databaseName, string connName, string sshPath = "")
+        public static string GetConnectionString(string requestedPerms, string connName, string sshPath = "")
         {
             string username = string.Empty;
             string password = string.Empty;
